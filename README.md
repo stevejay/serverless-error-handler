@@ -6,6 +6,7 @@ message format of the serverless framework, then it is returned
 as the error result for the lambda.
 
 [![npm version](https://badge.fury.io/js/serverless-error-handler.svg)](https://badge.fury.io/js/serverless-error-handler)
+[ ![Codeship Status for stevejay/serverless-error-handler](https://app.codeship.com/projects/99075000-a54f-0134-9382-0675723f157f/status?branch=master)](https://app.codeship.com/projects/190837)
 [![Coverage Status](https://coveralls.io/repos/github/stevejay/serverless-error-handler/badge.svg?branch=master)](https://coveralls.io/github/stevejay/serverless-error-handler?branch=master)
 [![dependency status](https://david-dm.org/stevejay/serverless-error-handler.svg)](https://david-dm.org/stevejay/serverless-error-handler)
 
